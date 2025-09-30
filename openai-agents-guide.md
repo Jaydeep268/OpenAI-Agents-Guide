@@ -1,7 +1,7 @@
 # OpenAI Agents SDK: The Complete Implementation Guide
 ## From Zero to Production Multi-Agent Systems
 
-*By [Your Name] | AI & Data Science Consultant*  
+*By Jaydeep Mandge | AI & Data Science Consultant*  
 *September 30, 2025*
 
 ---
